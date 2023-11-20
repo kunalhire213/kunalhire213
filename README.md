@@ -18,10 +18,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kunalhire213&style=flat-square&color=blue" alt=""/>
 </div>
-
-<br>
-<br>
-
 <div align="center">
   <h1>
   hey there
